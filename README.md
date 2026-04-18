@@ -1,6 +1,6 @@
 # OptiStream | Compresor de Video
 
-![OptiStream Logo](assets/logo/logo-png.png)
+<img src="assets/logo/logo-png.png" width="200" alt="OptiStream Logo">
 
 ![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
