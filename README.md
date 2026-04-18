@@ -8,6 +8,10 @@
 
 OptiStream es una aplicacion de escritorio construida con Python y Tkinter que permite comprimir archivos de video utilizando FFmpeg, con una interfaz grafica intuitiva y barra de progreso en tiempo real.
 
+## Vista Previa
+
+![Captura de pantalla](assets/images/screenshot.png)
+
 ## Caracteristicas Principales
 
 - **Compresion con FFmpeg:** Reduce el peso de archivos de video manteniendo una calidad profesional.
