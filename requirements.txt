@@ -1,0 +1,2 @@
+# No external dependencies required for this project
+# Only Python standard libraries are used (tkinter, os, subprocess, threading, etc.)
